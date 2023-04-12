@@ -10,8 +10,8 @@
 - 💬 Ask me about **React,Typescript**
 
 - 📫 How to reach me **yelinko.2002@gmail.com**
-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelinko20&show_icons=true&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelinko20&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
