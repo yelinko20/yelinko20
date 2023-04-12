@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ye Lin Ko</h1>
 <h3 align="center">A frontend developer from Myanmar</h3>
 
